@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ammar Ahmed</h1>
-<h3 align="center">A passionate fullstack developer from Rwanda</h3>
+<h3 align="center">A passionate fullstack developer interested in javascript</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amardeve" alt="amardeve" /></a> </p>
 
