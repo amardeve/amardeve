@@ -1,16 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
-
 <h1 align="center">Hi there, I'm Ammar Ahmed  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=100&color=5D53AB&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=100&color=FF8C00&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = "30"> About me
 
 <img align="right" alt="GIF" height="200px" src="https://user-images.githubusercontent.com/51681675/199342166-8f40d32f-a581-45a8-95d9-f764b356b8ed.gif" />
 
-- 🧑‍💻 I'm a Self-taught Software Engineer & Full Stack Developer.
-- 🎓 I'm a software engineering graduate from Holberton School & Alight.
+- 🧑‍💻 I've the ability to Self-taught.
+- 🎓 I'm a software engineering graduate from Alight Coding School.
 - 💼 I'm looking for new opportunities in software develober industry.
 - 📄 Take a look at my [**portfolio**](https://amadeve.vercel.app/) for more details about me.
 - 💬 Ask me anything, I'll be happy to help you ASAP.
@@ -23,7 +21,6 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">
-    <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" alt="Java">
 </p>
 
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="25"> **Frontend Development**
@@ -54,7 +51,6 @@
     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git">
     <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">
-    <img src="https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim" alt="Vim">
     <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" alt="Linux">
     <img src="https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu" alt="Ubuntu">
     <img src="https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows" alt="Windows">
