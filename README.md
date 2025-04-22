@@ -99,5 +99,7 @@
 
 Credit: [Ammar Ahmed](https://github.com/amadeve)
 Last Edited on: 02/06/2025
+![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
