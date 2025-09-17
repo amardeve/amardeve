@@ -25,36 +25,24 @@
 
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="25"> **Frontend Development**
 
-<p align="center">
-    <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" alt="HTML5">
-    <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6" alt="CSS3">
-    <img src="https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css" alt="Tailwind CSS">
-    <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React">
-    <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma" alt="Figma">
-</p>
+| Frontend | Framework | UI | Tools |
+|----------|-----------|----|-------|
+| ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5) <br> ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6) | ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) <br> ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css) | ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma) |
+
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="25"> **Backend Development**
 
-<p align="center">
-    <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js">
-    <img src="https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express" alt="Express.js">
-    <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" alt="MongoDB">
-    <img src="https://img.shields.io/badge/-REST%20API-05122A?style=flat" alt="REST API">
-    <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" alt="Postman">
-    <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL">
-    <img src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel" alt="Vercel">
-</p>
+| Runtime / Framework | Database | API & Tools | Deployment |
+|---------------------|----------|--------------|------------|
+| ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) <br> ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express) | ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) <br> ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) | ![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat) <br> ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) | ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel) |
 
-<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="25"> **Tools and Operating Systems**
 
-<p align="center">
-    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git">
-    <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub">
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">
-    <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" alt="Linux">
-    <img src="https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu" alt="Ubuntu">
-    <img src="https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows" alt="Windows">
-</p>
+## <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="25"> **Tools and Operating Systems**
+
+| Version Control | Code Editor | Operating Systems |
+|-----------------|-------------|--------------------|
+| ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) <br> ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) | ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) | ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux) <br> ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu) <br> ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows) |
+
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Stats
